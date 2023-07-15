@@ -17,11 +17,15 @@ id selector - used once to change individual element
 }
 */
 
-
+.div{
+    
+}
 .line-break{
-    border-bottom: 5px;
-    border-top: 5px;
-    color: black;
+    border-bottom: 3.5px solid;
+    border-top: 3.5px solid;
+    border-radius: 50%;
+    background-color: rgb(23, 53, 63);
+    color: rgb(156, 108, 108);
 }
 body {
     margin: 8px;

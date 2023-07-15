@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+
+/* 
+element selector - changes all elements
+p {
+    color: pink;
+}
+
+class selector - changes selected element with class="
+.pink-paragraph{
+    color: pink;
+}
+
+id selector - used once to change individual element
+#pinkParagraph {
+    color: pink;
+}
+*/
+
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}

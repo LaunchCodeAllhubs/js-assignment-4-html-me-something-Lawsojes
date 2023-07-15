@@ -17,9 +17,7 @@ id selector - used once to change individual element
 }
 */
 
-.div{
-    
-}
+
 .line-break{
     border-bottom: 3.5px solid;
     border-top: 3.5px solid;
@@ -50,7 +48,7 @@ head {
 
 footer{
     background-color: rgb(23, 53, 63);
-    text-align: right;
+    text-align: center;
     color: gray;
 }
 h1 {

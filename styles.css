@@ -33,10 +33,11 @@ body {
     color: red;
     text-align: center;
 }
-#mainParagraph{
+.fun-paragraph{
     margin-left: 25%;
     margin-right: 25%;
     text-align: center;
+    color: green;
 }
 head {
     

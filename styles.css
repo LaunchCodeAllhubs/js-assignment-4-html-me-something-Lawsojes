@@ -17,6 +17,9 @@ id selector - used once to change individual element
 }
 */
 
+.image1 {
+    align-content: end;
+}
 
 body {
     margin: 8px;
@@ -28,6 +31,17 @@ body {
     text-align: center;
 }
 
+head {
+    margin: 25%;
+    text-align: center;
+    background-color: rgb(23, 53, 63);
+}
+
+footer{
+    background-color: rgb(23, 53, 63);
+    text-align: right;
+    color: gray;
+}
 h1 {
     text-align: center;
 }

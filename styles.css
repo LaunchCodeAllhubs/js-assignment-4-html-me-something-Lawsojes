@@ -1,1 +1,63 @@
 /* Write your CSS here! */
+
+/* 
+element selector - changes all elements
+p {
+    color: pink;
+}
+
+class selector - changes selected element with class="
+.pink-paragraph{
+    color: pink;
+}
+
+id selector - used once to change individual element
+#pinkParagraph {
+    color: pink;
+}
+*/
+
+
+.line-break{
+    border-bottom: 3.5px solid;
+    border-top: 3.5px solid;
+    border-radius: 50%;
+    background-color: rgb(23, 53, 63);
+    color: rgb(156, 108, 108);
+}
+body {
+    margin: 8px;
+    display: block;
+    background-color: rgb(180, 178, 178);
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+.fun-paragraph{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    color: green;
+}
+head {
+    
+    background-color: rgb(23, 53, 63);
+}
+
+footer{
+    background-color: rgb(23, 53, 63);
+    text-align: center;
+    color: gray;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+
+}
+img{
+    border-radius: 50%;
+}
